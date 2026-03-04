@@ -124,7 +124,7 @@ This project is licensed under the **GNU General Public License v3.0** — as us
 
 | **Author** | Preetham SK |
 |:---|:---|
-| **Program** | NASSCOM FutureSkills Prime — VSD (VLSI System Design) |
+| **Program** | VSD (VLSI System Design) |
 | **LinkedIn** | [linkedin.com/in/preethamsk16](https://www.linkedin.com/in/preethamsk16) |
 | **GitHub** | [github.com/PreethamSK163](https://github.com/PreethamSK163) |
 | **Email** | preethamsk163@gmail.com |
