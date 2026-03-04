@@ -1,4 +1,4 @@
-# 01 — TCL Toolbox Setup
+# TCL Toolbox Setup
 > CLI Wrapper, Argument Validation & Help Subsystem — VSDSYNTH
 
 ![Tool](https://img.shields.io/badge/Tool-TCL-blue)
