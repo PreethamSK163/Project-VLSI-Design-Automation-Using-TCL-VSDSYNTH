@@ -96,6 +96,19 @@ Generated dynamic Yosys synthesis scripts with absolute paths for all RTL source
 Translated SDC constraints to OpenTimer format — clocks, input/output delays, transitions, and bit-blasted bus constraints. Automated OpenTimer configuration file generation and STA execution. QoR metrics extracted — Instance Count, WNS, FEP — and presented in a professional CLI dashboard with CSV report output.
 > 📁 [View Implementation Results](./05%20:%20QoR%20Generation)
 
+<h2>📈 QoR Results — openMSP430 (Pre-Layout)</h2>
+
+Validated on the **openMSP430** 16-bit RISC microcontroller — 23 Verilog RTL modules synthesized to OSU 0.18µm standard cells.
+
+| Metric | Value |
+|---|---|
+| Gate Count | 6,845 |
+| Hierarchy Check | PASS (0 errors) |
+| Paths Analyzed | 10,000 |
+| Critical Path Depth | 67–83 logic levels |
+| Synthesis Runtime | ~5 sec (Yosys, peak 70 MB) |
+
+
 <h2>📚 References</h2>
 
 | **OpenTimer** | [OpenTimer by Tsung-Wei Huang, UIUC](https://github.com/OpenTimer/OpenTimer) |
