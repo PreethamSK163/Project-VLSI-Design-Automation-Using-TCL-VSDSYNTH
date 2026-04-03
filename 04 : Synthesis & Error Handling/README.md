@@ -1,4 +1,4 @@
-# 04 — Synthesis & Error Handling
+# Synthesis & Error Handling
 > Yosys Script Generation, Hierarchy Validation & Graceful Error Handling — VSDSYNTH
 
 ![Tool](https://img.shields.io/badge/Tool-Yosys-blue)
